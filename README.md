@@ -1,7 +1,5 @@
 # blogProject
 
-# Minions App
-
 
 ### Technologies & Methodologies which used:
 
