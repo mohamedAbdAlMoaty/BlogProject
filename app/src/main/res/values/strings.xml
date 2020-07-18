@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Blogger</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_add">Add</string>
+    <string name="title_account">Account</string>
+    <string name="login_to_account">Login to Account</string>
+    <string name="your_email">Your Email</string>
+    <string name="password">Password</string>
+    <string name="need_a_new_account">Need a new Account?</string>
+    <string name="post_desc">Post_Desc</string>
+    <string name="remove_post">Remove Post</string>
+    <string name="post_title">Post Title</string>
+    <string name="user_name">User Name</string>
+    <string name="create_new_account">Create new Account</string>
+    <string name="have_an_account">Have An Account?</string>
+    <string name="my_name">My Name</string>
+    <string name="sign_out">sign out</string>
+    <string name="post_title_00">Post Title ...</string>
+    <string name="post_discription">Post Discription ...</string>
+    <string name="submit_post">Submit Post</string>
+</resources>

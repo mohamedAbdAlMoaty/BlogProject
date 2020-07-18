@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0488d1</color>
+    <color name="colorPrimaryDark">#FFB34141</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="gray">#898686</color>
+    <color name="btnSignIn">#1fbad6</color>
+    <color name="btnReqister">#83838c</color>
+    <color name="black">#000000</color>
+    <color name="blue">#002b7b</color>
+    <color name="orange">#ff8c00</color>
+    <color name="white">#ffffff</color>
+</resources>
